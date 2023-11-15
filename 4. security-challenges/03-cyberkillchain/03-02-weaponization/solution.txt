@@ -1,0 +1,5 @@
+222399311b69496a3fbf0b2b1feaef13
+T1064
+Defense Evasion
+Obfuscation 
+flag{l39a07a239aacd40c948d852a5c9f8d1}
